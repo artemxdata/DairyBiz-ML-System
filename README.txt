@@ -35,11 +35,5 @@ Technologies Used
 - Data Analysis
 - Predictive Modeling
 
-Installation
-```bash
-# Clone repository
-git clone https://github.com/username/CowMilk-AI-Predictor.git
-cd CowMilk-AI-Predictor
-
 Install dependencies
 pip install -r requirements.txt
